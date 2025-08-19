@@ -27,7 +27,7 @@ This app allows users to add, mark as completed, and delete tasks. It also uses 
 
 - CSS3
 
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🌟 Future Enhancements
 
