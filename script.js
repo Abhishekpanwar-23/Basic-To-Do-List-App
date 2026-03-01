@@ -35,3 +35,12 @@ function showTask(){
     listContainer.innerHTML=localStorage.getItem("data");
 }
 showTask()
+
+function clearTask(){
+    localStorage.clear();
+    listContainer.innerHTML="";
+}
+
+function reset(){
+    clearTask();
+}
